@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/cakephp-smtp-crlf">cakephp-smtp-crlf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/cakephp-smtp-crlf"><strong>https://abraxaslabs.tech/research/cakephp-smtp-crlf</strong></a>
+</p>
+
 
 # cakephp-smtp-crlf
 
